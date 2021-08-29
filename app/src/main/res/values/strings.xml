@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android MVC</string>
+    <string name="heading">MVC Architecture Pattern</string>
+    <string name="count">Count:0</string>
+</resources>
